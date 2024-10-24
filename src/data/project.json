@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Bandjar-Tjahjana Werken",
+    "thumbUrl": "btw",
+    "description": "The website for Bandjar-Tjahjana Werken. The site is build with Vite and TailwindCSS.",
+    "repo": "#",
+    "link": "btw.web.id",
+    "techstack": [
+      "react.svg",
+      "vite.webp",
+      "tailwind.svg",
+      "daisyui.svg",
+      "swiper.webp"
+    ],
+    "category": "Website"
+  },
+  {
+    "name": "KPU BEM STB",
+    "thumbUrl": "kpu-bem-stb",
+    "description": "STIMIK Tunas Bangsa's BEM presidential election website at 2022",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["html", "tailwindcss", "php", "mysql"],
+    "category": "Website"
+  },
+  {
+    "name": "Bocchi The Rock!",
+    "thumbUrl": "bocchi-the-rock",
+    "description": "Landing page of Bocchi the Rocj anime. Build with NextJS and TailwindCSS.",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["html", "css", "javascript", "tailwindcss"],
+    "category": "Website"
+  },
+  {
+    "name": "This is Kimi no Na Wa",
+    "thumbUrl": "kimi-no-na-wa",
+    "description": "Describe about Kimi no Na Wa anime, the synopsis, the characters and many more.",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["html", "css", "javascript", "tailwindcss"],
+    "category": "Website"
+  },
+  {
+    "name": "ShortTik",
+    "thumbUrl": "shorttik",
+    "description": "Shorten your link with this web application",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["html", "tailwindcss", "javascript"],
+    "category": "Website"
+  },
+  {
+    "name": "Yuika Bot",
+    "thumbUrl": "btw",
+    "description": "Telegram Bot with grammY with many features you can using.",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["nodejs", "grammy", "axios", "cheerio"],
+    "category": "Bot"
+  },
+  {
+    "name": "Yuika Lyrics",
+    "thumbUrl": "btw",
+    "description": "Telegram bot you can using to searching song lyric by song title.",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["nodejs", "grammy", "axios", "cheerio"],
+    "category": "Bot"
+  },
+  {
+    "name": "TakNgintip Bot",
+    "thumbUrl": "btw",
+    "description": "Telegram bot to stalking Instagram user by username.",
+    "repo": "#",
+    "link": "#",
+    "techstack": ["nodejs", "grammy", "axios", "cheerio"],
+    "category": "Bot"
+  }
+]

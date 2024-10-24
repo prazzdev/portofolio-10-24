@@ -1,0 +1,116 @@
+[
+  {
+    "title": "HTML",
+    "thumbUrl": "html.svg",
+    "link": "developer.mozilla.org/en-US/docs/Web/HTML",
+    "category": "Language"
+  },
+  {
+    "title": "CSS",
+    "thumbUrl": "css.svg",
+    "link": "developer.mozilla.org/en-US/docs/Web/CSS",
+    "category": "Language"
+  },
+  {
+    "title": "Javascript",
+    "thumbUrl": "js.svg",
+    "link": "developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "category": "Language"
+  },
+  {
+    "title": "PHP",
+    "thumbUrl": "php.svg",
+    "link": "php.net",
+    "category": "Language"
+  },
+  {
+    "title": "React",
+    "thumbUrl": "react.svg",
+    "link": "react.dev",
+    "category": "Framework/Library"
+  },
+  {
+    "title": "NextJS",
+    "thumbUrl": "next.svg",
+    "link": "nextjs.org",
+    "category": "Framework/Library"
+  },
+  {
+    "title": "NodeJS",
+    "thumbUrl": "node.webp",
+    "link": "nodejs.org",
+    "category": "Framework/Library"
+  },
+  {
+    "title": "ExpressJS",
+    "thumbUrl": "express.webp",
+    "link": "expressjs.com",
+    "category": "Framework/Library"
+  },
+  {
+    "title": "grammY",
+    "thumbUrl": "grammy.webp",
+    "link": "grammy.dev",
+    "category": "Framework/Library"
+  },
+  {
+    "title": "Tailwind CSS",
+    "thumbUrl": "tailwind.svg",
+    "link": "tailwindcss.com",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "Daisy UI",
+    "thumbUrl": "daisyui.svg",
+    "link": "daisyui.com",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "Mamba UI",
+    "thumbUrl": "mambaui.svg",
+    "link": "mambaui.com",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "Flowbite",
+    "thumbUrl": "flowbite.svg",
+    "link": "flowbite.com",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "Hyper UI",
+    "thumbUrl": "hyperui.webp",
+    "link": "hyperui.dev",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "Meraki UI",
+    "thumbUrl": "merakiui.svg",
+    "link": "merakiui.com",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "MySQL",
+    "thumbUrl": "mysql.svg",
+    "link": "mysql.com",
+    "category": "DBMS"
+  },
+  {
+    "title": "Firestore",
+    "thumbUrl": "firestore.svg",
+    "link": "firebase.google.com",
+    "category": "DBMS"
+  },
+  {
+    "title": "Windows",
+    "thumbUrl": "windows.svg",
+    "link": "windows.com",
+    "category": "Operating System"
+  },
+  {
+    "title": "Git",
+    "thumbUrl": "git.svg",
+    "link": "git-scm.com",
+    "category": "Misc"
+  }
+]
