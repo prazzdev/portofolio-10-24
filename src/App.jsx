@@ -5,7 +5,7 @@ import About from "./pages/about";
 import SkillPage from "./pages/skill";
 import ProjectPage from "./pages/project";
 import BlogPage from "./pages/blog";
-import PageTitle from "./helpers/components/pageTitle";
+import PageTitle from "./helpers/components/PageTitle";
 
 function App() {
   return (
