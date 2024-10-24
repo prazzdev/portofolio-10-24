@@ -36,6 +36,12 @@
     "category": "Framework/Library"
   },
   {
+    "title": "Vite",
+    "thumbUrl": "vite.webp",
+    "link": "vite.dev",
+    "category": "Framework/Library"
+  },
+  {
     "title": "NodeJS",
     "thumbUrl": "node.webp",
     "link": "nodejs.org",
@@ -51,6 +57,12 @@
     "title": "grammY",
     "thumbUrl": "grammy.webp",
     "link": "grammy.dev",
+    "category": "Framework/Library"
+  },
+  {
+    "title": "React Native",
+    "thumbUrl": "react.svg",
+    "link": "reactnative.dev",
     "category": "Framework/Library"
   },
   {
