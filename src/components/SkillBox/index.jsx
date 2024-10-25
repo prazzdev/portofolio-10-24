@@ -12,10 +12,8 @@ export default function SkillBox({ title, thumbUrl, link }) {
         <div className="min-h-[80%] min-w-[100%] flex justify-center items-center">
           <img
             src={`${thumbUrl}`}
-            width={90}
-            height={90}
             alt={`${title}`}
-            className="w-[80px] h-[80px] lg:w-[120px] lg:h-[120px]"
+            className="w-[80px] h-[80px] lg:w-[90px] lg:h-[90px]"
           />
         </div>
         <div className="min-h-[20%] min-w-[100%] flex justify-center items-center">
