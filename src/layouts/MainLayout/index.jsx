@@ -18,14 +18,14 @@ const MainLayout = (props) => {
       <Header />
       <div
         id="container"
-        className="relative flex flex-column max-h-[100vh] min-w-[100vw] lg:min-w-[50vw] lg:max-w-[50vw] mx-auto"
-        data-aos="fade-right"
-        data-aos-easing="ease-in-out"
-        data-aos-duration="600"
+        className="relative flex flex-column max-h-[100vh] min-w-[100%] lg:min-w-[60vw] lg:max-w-[60vw] 2xl:min-w-[50vw] mx-auto"
+        // data-aos="fade-right"
+        // data-aos-easing="ease-in-out"
+        // data-aos-duration="600"
       >
         {children}
       </div>
-      {/* <NavMenu /> */}
+      <NavMenu />
       <Footer />
     </>
   );
