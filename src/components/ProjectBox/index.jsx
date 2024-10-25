@@ -23,8 +23,10 @@ export default function ProjectBox(props) {
             className="min-h-[180px] max-h-[180px] lg:min-h-[180px] lg:max-h-[180px]"
           />
           <div className="flex flex-row justify-between items-center mt-4">
-            <h3 className="font-bold text-xl lg:text-[1em]">{title}</h3>
-            <div id="opt" className="">
+            <h3 className="font-bold text-xl lg:text-[1em] max-w-[65%] lg:max-w-[70%]">
+              {title}
+            </h3>
+            <div id="opt" className="max-w-[45%] lg:max-w-[30%]">
               <button className="mx-2">
                 <a href={repoUri + repoUrl} className="" target="_blank">
                   <img

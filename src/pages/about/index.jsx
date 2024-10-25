@@ -37,17 +37,17 @@ export default function About() {
             />
           </div>
         </section>
-        <section className="mb-6 px-6">
+        <section className="mb-6 lg:px-6">
           <HeadingTitle text="Education" />
           <div className="container max-w-5xl py-2 mx-auto -ml-[2em] lg:-ml-[.5em]">
             <div className="grid gap-4 mx-4 sm:grid-cols-12 text-left">
               <div className="relative col-span-12 px-4 space-y-6 sm:col-span-9">
                 <div className="col-span-12 space-y-12 relative px-4 sm:col-span-8 sm:space-y-8 sm:before:absolute sm:before:top-2 sm:before:bottom-0 sm:before:w-0.5 sm:before:-left-3 before:bg-gray-700">
                   <div className="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:bg-teal-500">
-                    <h3 className="text-xl font-semibold tracki">
+                    <h3 className="text-md lg:text-xl font-semibold tracki">
                       Senior High School
                     </h3>
-                    <h5 className="font-semibold text-xl mt-1.5">
+                    <h5 className="font-semibold text-lg lg:text-xl mt-1.5">
                       SMA Muhammadiyah 1 Banjarnegara
                     </h5>
                     <time className="text-xs tracki uppercase text-gray-400 mt-1">
@@ -55,8 +55,10 @@ export default function About() {
                     </time>
                   </div>
                   <div className="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:bg-teal-500">
-                    <h3 className="text-xl font-semibold tracki">University</h3>
-                    <h5 className="font-semibold text-xl mt-1.5">
+                    <h3 className="text-md lg:text-xl font-semibold tracki">
+                      University
+                    </h3>
+                    <h5 className="font-semibold text-lg lg:text-xl mt-1.5">
                       STIMIK Tunas Bangsa Banjarnegara
                     </h5>
                     <time className="text-xs tracki uppercase text-gray-400 mt-1">
@@ -68,7 +70,7 @@ export default function About() {
             </div>
           </div>
         </section>
-        <section className="mb-16 lg:mb2 px-6">
+        <section className="mb-16 lg:mb-2 lg:px-6">
           <HeadingTitle text="Resume" />
           <p className="mt-1 max-w-fit">
             You can read my resume{" "}
