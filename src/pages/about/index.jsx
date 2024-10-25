@@ -5,7 +5,7 @@ export default function About() {
   return (
     <>
       <DefaultLayout pageTitle="About Me">
-        <section className="flex justify-between mb-6 px-6 py-6">
+        <section className="flex justify-between mb-6 lg:px-6 lg:py-6">
           <div className="w-full min-h-fit flex flex-col justify-start lg:max-w-[80%]">
             <HeadingTitle text="About Me" />
             <h3 className="max-w-fit text-teal-500 font-bold text-[1.2em] lg:text-2xl drop-shadow-xl">

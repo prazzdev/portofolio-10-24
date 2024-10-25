@@ -19,7 +19,7 @@ const SkillPage = () => {
   return (
     <>
       <DefaultLayout pageTitle="Skill">
-        <div className="flex flex-col px-6 py-6 pb-[4em] lg:pb-0 lg:px-[3em] lg:py-6">
+        <div className="flex flex-col pb-[4em] lg:pb-0 lg:px-[3em] lg:py-6">
           <HeadingTitle text="Skill" />
           {Object.keys(groupedSkills).map((category) => (
             <ListStruct key={category} title={category}>

@@ -18,7 +18,7 @@ const ProjectPage = () => {
   return (
     <>
       <DefaultLayout pageTitle="Project">
-        <div className="flex flex-col px-6 py-6 pb-[4em] lg:px-[3em] lg:py-6">
+        <div className="flex flex-col pb-[4em] lg:px-[3em] lg:py-6">
           <HeadingTitle text="Projects" />
           {Object.keys(groupedProjects).map((category) => (
             <ListStruct key={category} title={category}>
