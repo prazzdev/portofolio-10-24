@@ -8,7 +8,7 @@ const groupedTools = skillList.reduce((acc, tool) => {
   if (!acc[tool.category]) {
     acc[tool.category] = [];
   }
-  acc[tool.category].push(skill);
+  acc[tool.category].push(tool);
   return acc;
 }, {});
 
