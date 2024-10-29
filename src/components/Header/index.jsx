@@ -18,10 +18,10 @@ export default function Header() {
             About
           </Link>
           <Link
-            to="/skill"
+            to="/tool"
             className="font-bold px-4 py-2 rounded-md transition hover:bg-gray-50"
           >
-            Skill
+            Tool
           </Link>
           <Link
             to="/project"

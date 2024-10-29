@@ -17,9 +17,9 @@ const ToolPage = () => {
 
   return (
     <>
-      <DefaultLayout pageTitle="Skill">
+      <DefaultLayout>
         <div className="flex flex-col pb-[4em] lg:pb-0 lg:px-[3em] lg:py-6">
-          <HeadingTitle text="Skill" />
+          <HeadingTitle text="Tool" />
           {Object.keys(groupedTools).map((category) => (
             <ListStruct key={category} title={category}>
               {groupedTools[category].map((skill) => (
