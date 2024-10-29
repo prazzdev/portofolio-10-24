@@ -15,15 +15,7 @@ const Home = () => {
             Junior Front End Web Developer
           </h3>
           <p className="text-[15px] lg:text-lg 2xl:text-xl text-center lg:text-start">
-            Hi,everyone. Welcome to my portfolio website.
-            <button
-              onClick={() => {
-                throw new Error("This is your first error!");
-              }}
-            >
-              Break the world
-            </button>
-            ;
+            Hi,everyone! Welcome to my portfolio website.
           </p>
         </div>
         <div className="h-[280px] w-[280px] bg-teal-500 lg:bg-[#eee] lg:-mt-[5em] 2xl:-mt-[9em] rounded-xl lg:rounded-none shadow-lg lg:shadow-none">
