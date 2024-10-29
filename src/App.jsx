@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/home";
 import About from "./pages/about";
-import SkillPage from "./pages/skill";
+import ToolPage from "./pages/tool";
 import ProjectPage from "./pages/project";
 import BlogPage from "./pages/blog";
 import PageTitle from "./helpers/components/PageTitle";
@@ -30,11 +30,11 @@ function App() {
           }
         />
         <Route
-          path="/skill"
+          path="/tool"
           element={
             <>
-              <PageTitle text="Skill | Agung Prasetyo" />
-              <SkillPage />
+              <PageTitle text="Tool | Agung Prasetyo" />
+              <ToolPage />
             </>
           }
         />

@@ -1,19 +1,18 @@
-import SkillList from "../../components/SkillList";
 import HeadingTitle from "../../components/partials/HeadingTitle";
 import DefaultLayout from "../../layouts/DefaultLayout";
 import skillList from "../../data/skill.json";
 import ListStruct from "../../components/ListStruct";
 import SkillBox from "../../components/SkillBox";
 
-const groupedSkills = skillList.reduce((acc, skill) => {
-  if (!acc[skill.category]) {
-    acc[skill.category] = [];
+const groupedTools = skillList.reduce((acc, tool) => {
+  if (!acc[tool.category]) {
+    acc[tool.category] = [];
   }
-  acc[skill.category].push(skill);
+  acc[tool.category].push(skill);
   return acc;
 }, {});
 
-const SkillPage = () => {
+const ToolPage = () => {
   const imgUrl = "images/tech/";
 
   return (
@@ -21,9 +20,9 @@ const SkillPage = () => {
       <DefaultLayout pageTitle="Skill">
         <div className="flex flex-col pb-[4em] lg:pb-0 lg:px-[3em] lg:py-6">
           <HeadingTitle text="Skill" />
-          {Object.keys(groupedSkills).map((category) => (
+          {Object.keys(groupedTools).map((category) => (
             <ListStruct key={category} title={category}>
-              {groupedSkills[category].map((skill) => (
+              {groupedTools[category].map((skill) => (
                 <SkillBox
                   key={skill.title}
                   title={skill.title}
@@ -39,4 +38,4 @@ const SkillPage = () => {
   );
 };
 
-export default SkillPage;
+export default ToolPage;
