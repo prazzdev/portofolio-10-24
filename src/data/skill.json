@@ -144,6 +144,24 @@
     "category": "ORM"
   },
   {
+    "title": "Sanity",
+    "thumbUrl": "sanity.png",
+    "link": "sanity.io",
+    "category": "Headless CMS"
+  },
+  {
+    "title": "Strapi",
+    "thumbUrl": "strapi.png",
+    "link": "strapi.io",
+    "category": "Headless CMS"
+  },
+  {
+    "title": "Contentful",
+    "thumbUrl": "contentful.png",
+    "link": "contentful.com",
+    "category": "Headless CMS"
+  },
+  {
     "title": "Windows",
     "thumbUrl": "windows.svg",
     "link": "windows.com",
