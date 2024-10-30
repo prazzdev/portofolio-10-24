@@ -33,10 +33,10 @@ export default function NavMenu() {
                 About
               </Link>
               <Link
-                to="/skill"
+                to="/tool"
                 className="font-bold px-4 py-2 bg-white text-black rounded-md shadow-md mb-3 transition hover:bg-gray-100"
               >
-                Skill
+                Tool
               </Link>
               <Link
                 to="/project"

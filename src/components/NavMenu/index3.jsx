@@ -19,7 +19,7 @@ const NavMenu = () => {
             <BsInfoCircle className="text-gray-700 w-5 h-5" />
           </button>
         </Link>
-        <Link to="/skill">
+        <Link to="/tool">
           <button>
             <BsCodeSquare className="text-gray-700 w-5 h-5" />
           </button>
