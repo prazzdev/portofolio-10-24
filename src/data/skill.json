@@ -42,6 +42,12 @@
     "category": "Framework/Library"
   },
   {
+    "title": "Svelte",
+    "thumbUrl": "svelte.svg",
+    "link": "svelte.dev",
+    "category": "Framework/Library"
+  },
+  {
     "title": "Astro",
     "thumbUrl": "astro.svg",
     "link": "astro.build",
