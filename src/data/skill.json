@@ -108,6 +108,12 @@
     "category": "UI Framework/Component"
   },
   {
+    "title": "Material UI",
+    "thumbUrl": "mui.png",
+    "link": "mui.com",
+    "category": "UI Framework/Component"
+  },
+  {
     "title": "Flowbite",
     "thumbUrl": "flowbite.svg",
     "link": "flowbite.com",
