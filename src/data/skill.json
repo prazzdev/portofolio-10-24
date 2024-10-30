@@ -42,6 +42,12 @@
     "category": "Framework/Library"
   },
   {
+    "title": "Astro",
+    "thumbUrl": "astro.svg",
+    "link": "astro.build",
+    "category": "Framework/Library"
+  },
+  {
     "title": "NodeJS",
     "thumbUrl": "node.webp",
     "link": "nodejs.org",
@@ -78,9 +84,21 @@
     "category": "UI Framework/Component"
   },
   {
-    "title": "Mamba UI",
-    "thumbUrl": "mambaui.svg",
-    "link": "mambaui.com",
+    "title": "Mantine",
+    "thumbUrl": "mantine.svg",
+    "link": "mantine.dev",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "shadcn/ui",
+    "thumbUrl": "shadcn-ui.png",
+    "link": "ui.shadcn.com",
+    "category": "UI Framework/Component"
+  },
+  {
+    "title": "Chakra UI",
+    "thumbUrl": "chakra.png",
+    "link": "chakra-ui.com",
     "category": "UI Framework/Component"
   },
   {
@@ -90,15 +108,9 @@
     "category": "UI Framework/Component"
   },
   {
-    "title": "Hyper UI",
-    "thumbUrl": "hyperui.webp",
-    "link": "hyperui.dev",
-    "category": "UI Framework/Component"
-  },
-  {
-    "title": "Meraki UI",
-    "thumbUrl": "merakiui.svg",
-    "link": "merakiui.com",
+    "title": "Mamba UI",
+    "thumbUrl": "mambaui.svg",
+    "link": "mambaui.com",
     "category": "UI Framework/Component"
   },
   {
@@ -112,6 +124,24 @@
     "thumbUrl": "firestore.svg",
     "link": "firebase.google.com",
     "category": "DBMS"
+  },
+  {
+    "title": "GraphQL",
+    "thumbUrl": "graphql.png",
+    "link": "graphql.org",
+    "category": "DBMS"
+  },
+  {
+    "title": "Prisma",
+    "thumbUrl": "prisma.svg",
+    "link": "prisma.io",
+    "category": "ORM"
+  },
+  {
+    "title": "Kysely",
+    "thumbUrl": "kysely.svg",
+    "link": "kysely.dev",
+    "category": "ORM"
   },
   {
     "title": "Windows",

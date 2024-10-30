@@ -66,6 +66,11 @@ export default function SkillList() {
           link=""
         />
         <SkillBox title="Daisy UI" thumbUrl={imgUrl + "daisyui.svg"} link="" />
+        <SkillBox
+          title="Mantine"
+          thumbUrl={imgUrl + "mantine.svg"}
+          link="https://mantine.dev"
+        />
         <SkillBox title="Mamba UI" thumbUrl={imgUrl + "mambaui.svg"} link="" />
         <SkillBox
           title="Flowbite"
