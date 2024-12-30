@@ -6,11 +6,12 @@ export default function TechStackIco(props) {
   return (
     <>
       <img
-        src={techIcoUrl + src}
+        src={techIcoUrl + src + ".svg"}
         width={25}
         height={25}
         className="mr-3 tooltip tooltip-left tooltip-accent"
         data-tip={techName}
+        placeholder={src}
       />
     </>
   );
