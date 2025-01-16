@@ -14,16 +14,15 @@ export default function About() {
             <div id="description" className="text-justify">
               <p className="my-3 lg:max-w-[60svw]">
                 A dedicated student at STIMIK Tunas Bangsa Banjarnegara, with a
-                strong passion for technology, particularly in web development.
+                strong passion for technology, particularly in web development
               </p>
               <p className="my-3 -mb-3 lg:max-w-[60svw]">
                 My primary programming language is JavaScript. I have a solid
-                foundation in web development and have worked with frameworks
-                like Next.js for JavaScript and Laravel for PHP. I'm
-                continuously committed to staying updated with the latest
-                advancements in web development and emerging technologies. Let's
-                connect and explore opportunities in the ever-evolving tech
-                industry!
+                foundation in web development and have worked with web
+                frameworks like React.js, Next.js, Astro, Vue. I'm continuously
+                committed to staying updated with the latest advancements in web
+                development and emerging technologies. Let's connect and explore
+                opportunities in the ever-evolving tech industry!
               </p>
             </div>
           </div>
